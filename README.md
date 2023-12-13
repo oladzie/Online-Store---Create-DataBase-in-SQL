@@ -8,7 +8,7 @@
 6. Do tabeli dodaj minimum 2-3 rekordy.
 7. Utwórz zapytanie wyświetlające rekordy z minimum dwóch tabel.
 
-<img width="639" alt="Screenshot 2023-12-13 133737" src="https://github.com/oladzie/Online-Store---Create-DataBase-in-SQL/assets/141512778/f03f67c4-df02-4e3d-96ad-5184b731f6b3">
+<img width="639" alt="Screenshot 2023-12-13 133737" src="https://github.com/oladzie/Online-Store---Create-DataBase-in-SQL/assets/141512778/bc195703-812b-4fa1-87bf-816a809bfe30">
 <img width="635" alt="Screenshot 2023-12-13 133757" src="https://github.com/oladzie/Online-Store---Create-DataBase-in-SQL/assets/141512778/7af0e2aa-c13c-43e6-a8af-e1e767458b96">
 <img width="634" alt="Screenshot 2023-12-13 133821" src="https://github.com/oladzie/Online-Store---Create-DataBase-in-SQL/assets/141512778/a33d7657-2a7a-4014-a7f8-88ba30a8cee1">
 <img width="635" alt="Screenshot 2023-12-13 133849" src="https://github.com/oladzie/Online-Store---Create-DataBase-in-SQL/assets/141512778/ffead5e3-f9da-41c4-a994-7256d64cfa36">
